@@ -2,7 +2,7 @@
 
 Este proyecto es un ejemplo básico de un sistema **RAG (Retrieval-Augmented Generation)**.
 
-Permite hacer preguntas sobre varios documentos  `.txt`, `.md`, `.log`, `.pdf` o `.docx` usando:
+Permite hacer preguntas sobre un documento `.txt` usando:
 
 - 🧬 Embeddings generados con Hugging Face
 - 🔎 Búsqueda semántica con ChromaDB
@@ -53,7 +53,7 @@ HF_API_TOKEN=tu_token_de_huggingface
 
 ## 📄 Indexar documento
 
-Coloca los documentos en `data/` y luego ejecuta:
+Coloca tu documento en `data/document.txt` y luego ejecuta:
 
 ```bash
 python app/index.py

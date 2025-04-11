@@ -3,3 +3,7 @@ chromadb
 transformers
 torch
 sentence-transformers
+python-docx
+PyMuPDF
+python-dotenv
+huggingface-hub
