@@ -1,0 +1,5 @@
+langchain
+chromadb
+transformers
+torch
+sentence-transformers
