@@ -17,14 +17,13 @@ Permite hacer preguntas sobre varios documentos  `.txt`, `.md`, `.log`, `.pdf` o
 - Hugging Face Transformers
 - LangChain
 - Hugging Face Inference API
-- dotenv
 
 ---
 
 ## 📆 Instalación
 
 ```bash
-git clone https://github.com/tu-usuario/mini-rag.git
+git clone https://github.com/cristianordonezdev/mini-rag.git
 cd mini-rag
 python -m venv venv
 source venv/bin/activate  # o .\venv\Scripts\activate en Windows
