@@ -7,3 +7,5 @@ python-docx
 PyMuPDF
 python-dotenv
 huggingface-hub
+langchain_community
+langchain_huggingface
